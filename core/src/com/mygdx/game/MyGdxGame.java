@@ -2,7 +2,6 @@ package com.mygdx.game;
 
 import static com.mygdx.game.Planner.teamBlack;
 import static com.mygdx.game.Planner.teamWhite;
-import static com.mygdx.game.hmm.ConsoleView.step;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
